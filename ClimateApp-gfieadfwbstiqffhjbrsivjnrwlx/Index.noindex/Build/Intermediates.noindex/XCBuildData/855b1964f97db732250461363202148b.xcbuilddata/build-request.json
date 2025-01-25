@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2e2a6ea3f582c6660fc77d1d88f374d979b180e49134f6e0597a5dd2e9eff433"
+    }
+  ],
+  "containerPath" : "/Users/andrewatkins/Documents/GitHub/ClimateApp/ClimateApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25",
+      "indexDataStoreFolderPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Products",
+      "pchPath" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

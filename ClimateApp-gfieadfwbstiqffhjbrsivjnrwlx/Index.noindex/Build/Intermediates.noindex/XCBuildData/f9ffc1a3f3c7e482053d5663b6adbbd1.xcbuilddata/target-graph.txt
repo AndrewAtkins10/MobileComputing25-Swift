@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'ClimateApp' in project 'ClimateApp' (no dependencies)
+Target 'ClimateApp' in project 'ClimateApp' (no dependencies)

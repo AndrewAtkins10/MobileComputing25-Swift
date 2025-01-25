@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex/ClimateApp.build/Debug-iphoneos/ClimateApp.build/Objects-normal/arm64/ClimateApp-master.d",
+    "diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex/ClimateApp.build/Debug-iphoneos/ClimateApp.build/Objects-normal/arm64/ClimateApp-master.dia",
+    "emit-module-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex/ClimateApp.build/Debug-iphoneos/ClimateApp.build/Objects-normal/arm64/ClimateApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex/ClimateApp.build/Debug-iphoneos/ClimateApp.build/Objects-normal/arm64/ClimateApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex/ClimateApp.build/Debug-iphoneos/ClimateApp.build/Objects-normal/arm64/ClimateApp-master.swiftdeps"
+  },
+  "/Users/andrewatkins/Documents/GitHub/ClimateApp/ClimateApp/AppDelegate.swift" : {
+
+  },
+  "/Users/andrewatkins/Documents/GitHub/ClimateApp/ClimateApp/SceneDelegate.swift" : {
+
+  },
+  "/Users/andrewatkins/Documents/GitHub/ClimateApp/ClimateApp/ViewController.swift" : {
+
+  },
+  "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Index.noindex/Build/Intermediates.noindex/ClimateApp.build/Debug-iphoneos/ClimateApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

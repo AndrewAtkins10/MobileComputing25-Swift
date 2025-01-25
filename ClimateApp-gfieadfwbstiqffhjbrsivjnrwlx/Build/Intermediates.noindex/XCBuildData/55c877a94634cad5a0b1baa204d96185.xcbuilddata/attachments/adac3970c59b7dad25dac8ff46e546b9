@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ClimateApp-master.dia",
+    "emit-module-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ClimateApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ClimateApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ClimateApp-master.swiftdeps"
+  },
+  "/Users/andrewatkins/Documents/GitHub/ClimateApp/ClimateApp/AppDelegate.swift" : {
+    "const-values" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/andrewatkins/Documents/GitHub/ClimateApp/ClimateApp/SceneDelegate.swift" : {
+    "const-values" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/andrewatkins/Documents/GitHub/ClimateApp/ClimateApp/ViewController.swift" : {
+    "const-values" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/andrewatkins/Documents/GitHub/MobileComputing25/ClimateApp-gfieadfwbstiqffhjbrsivjnrwlx/Build/Intermediates.noindex/ClimateApp.build/Debug-iphonesimulator/ClimateApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
